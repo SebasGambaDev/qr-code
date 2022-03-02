@@ -19,15 +19,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 The designs were created to the following widths:
 
 - Mobile: 375px
-[img](./screens-project/mobile.png)
+![img](./screens-project/mobile.png)
 
 - Desktop: 1440px
-[img](./screens-project/desktop.png)
+![img](./screens-project/desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/SebasGambaDev/qr-code.git)
+- Live Site URL: [Add live site URL here](https://sebasgambadev.github.io/qr-code/)
 
 ## My process
 
