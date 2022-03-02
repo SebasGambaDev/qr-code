@@ -18,10 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 The designs were created to the following widths:
 
-- Mobile: 375px
+- Mobile: 375px  
+
 ![img](./screens-project/mobile.png)
 
 - Desktop: 1440px
+
 ![img](./screens-project/desktop.png)
 
 ### Links
